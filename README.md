@@ -17,8 +17,9 @@ Batch Normalization, Kaiming He initialization to avoid gradient vanishing, skip
 ## Examples
 <img src="Images/prediction_results.png" width=800><br/>
 This is some predict in my test accuracy.
-
+<img src='Images/LocalRun.png' width=1000> <br/>
+This is an image when i try to run in my local.
 ## Requirements
 * **Python**
 * **CNN Architecture**
-* **Falsk try to deploy our model**
+* **Flask try to deploy our model**
